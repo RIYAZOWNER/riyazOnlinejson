@@ -1,9 +1,9 @@
 {
   "app_update": {
-    "apk_url": "https://github.com/RIYAZOWNER/riyazOnlinejson/releases/download/Riyaz/RIYAZ-online.apk",
+    "apk_url": "https://github.com/RIYAZOWNER/riyazOnlinejson/releases/download/Riyaz/RIYAZ-HEHE.apk",
     "update_title": "New Update Available",
     "update_message": "A new version of the app is available. Please update to continue.",
     "update_size": "9 MB",
-    "version_code": 2
+    "version_code": 3
   }
 }
