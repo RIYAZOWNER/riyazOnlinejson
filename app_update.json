@@ -1,0 +1,9 @@
+{
+  "app_update": {
+    "apk_url": "https://exmpal.xyz/AUDIO/new-version.apk",
+    "update_title": "New Update Available",
+    "update_message": "A new version of the app is available. Please update to continue.",
+    "update_size": "15 MB",
+    "version_code": 1
+  }
+}
