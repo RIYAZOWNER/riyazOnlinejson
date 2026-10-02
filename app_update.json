@@ -1,9 +1,9 @@
 {
   "app_update": {
-    "apk_url": "https://exmpal.xyz/AUDIO/new-version.apk",
+    "apk_url": "https://github.com/RIYAZOWNER/riyazOnlinejson/releases/download/Riyaz/RIYAZ-online.apk",
     "update_title": "New Update Available",
     "update_message": "A new version of the app is available. Please update to continue.",
-    "update_size": "15 MB",
-    "version_code": 1
+    "update_size": "9 MB",
+    "version_code": 2
   }
 }
