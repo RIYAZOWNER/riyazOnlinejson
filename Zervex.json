@@ -1,0 +1,15 @@
+{
+  "default_tier": "public",
+  "tiers": {
+    "public": {
+      "url": "https://github.com/RIYAZOWNER/riyazOnlinejson/releases/download/Riyaz/public.zip",
+      "version": "0.2",
+      "lib": "libpublic.so"
+    },
+    "private": {
+      "url": "https://github.com/RIYAZOWNER/riyazOnlinejson/releases/download/Riyaz/private.zip",
+      "version": "0.1",
+      "lib": "libprivate.so"
+    }
+  }
+}
