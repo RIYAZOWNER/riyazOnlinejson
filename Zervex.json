@@ -3,13 +3,13 @@
   "tiers": {
     "public": {
       "url": "https://github.com/RIYAZOWNER/riyazOnlinejson/releases/download/Riyaz/public.zip",
-      "version": "0.2",
-      "lib": "libpublic.so"
+      "version": "0.3",
+      "lib": "libbgmi.so"
     },
     "private": {
       "url": "https://github.com/RIYAZOWNER/riyazOnlinejson/releases/download/Riyaz/private.zip",
-      "version": "0.1",
-      "lib": "libprivate.so"
+      "version": "0.2",
+      "lib": "libbgmi.so"
     }
   }
 }
