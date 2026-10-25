@@ -2,12 +2,12 @@
   "default_tier": "public",
   "tiers": {
     "public": {
-      "url": "https://github.com//riyazOnlinejson/releases/download/Riyaz/public.zip",
+      "url": "https://github.com/RIYAZOWNERO/riyazOnlinejson/releases/download/Riyaz/public.zip",
       "version": "0.2",
       "lib": "libbgmi.so"
     },
     "private": {
-      "url": "https://github.com//riyazOnlinejson/releases/download/Riyaz/private.zip",
+      "url": "https://github.com/RIYAZOWNERO/riyazOnlinejson/releases/download/Riyaz/private.zip",
       "version": "0.4",
       "lib": "libbgmi.so"
     }
