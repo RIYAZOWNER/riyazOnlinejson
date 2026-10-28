@@ -1,6 +1,6 @@
 {
   "Status": true,
-  "version": 2,
+  "version": 3,
   "libs": "https://github.com/RIYAZOWNER/riyazOnlinejson/releases/download/Riyaz/libbgmi.so",
   "Dlib": false
 }
